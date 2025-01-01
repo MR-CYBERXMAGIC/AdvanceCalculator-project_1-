@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "inputvalidator.h": "c",
+        "converters.h": "c"
+    }
+}
